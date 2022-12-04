@@ -2,6 +2,24 @@
 </script>
 
 <svelte:head>
+        <!-- Primary Meta Tags -->
+    <title>Krnl  - Best Roblox Utility Tool</title>
+    <meta name="title" content="Krnl  - Best Roblox Utility Tool">
+    <meta name="description" content="Krnl is a scripting tool with an easy-to-use graphical interface that makes it simple to build and run scripts.">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://krnl.wtf/">
+    <meta property="og:title" content="Krnl  - Best Roblox Utility Tool">
+    <meta property="og:description" content="Krnl is a scripting tool with an easy-to-use graphical interface that makes it simple to build and run scripts.">
+    <meta property="og:image" content="">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://krnl.wtf/">
+    <meta property="twitter:title" content="Krnl  - Best Roblox Utility Tool">
+    <meta property="twitter:description" content="Krnl is a scripting tool with an easy-to-use graphical interface that makes it simple to build and run scripts.">
+    <meta property="twitter:image" content="">
     <style>
 		@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
@@ -29,11 +47,11 @@
         <a href="/"><img src="https://cdn.discordapp.com/attachments/756373435726168104/769299914332962886/krnlmain.png" alt=""></a>
         <nav>
             <div class="ul">
-                <a href="/download">Download</a>
-                <a href="https://direct-link.net/337368/krnl-key" target=”_blank”>Krnl Key</a>
-                <a href="/doc">Documentation</a>
-                <a href="https://discord.com/invite/6AGKKRaT4z" target=”_blank”>Discord</a>
-                <a href="/faq">Faq</a>
+                <a href="/download" data-sveltekit-prefetch>Download</a>
+                <a href="https://direct-link.net/337368/krnl-key" target=”_blank” data-sveltekit-prefetch>Krnl Key</a>
+                <a href="/doc" data-sveltekit-prefetch>Documentation</a>
+                <a href="https://discord.com/invite/6AGKKRaT4z" target=”_blank” data-sveltekit-prefetch>Discord</a>
+                <a href="/faq" data-sveltekit-prefetch>Faq</a>
             </div>
         </nav>
     </header>
