@@ -14,7 +14,7 @@
 		}
 
 		body {
-			background: #1f1f1f;
+			background: #111;
 		}
 
 		::-webkit-scrollbar {
@@ -29,7 +29,7 @@
         <a href="/"><img src="https://cdn.discordapp.com/attachments/756373435726168104/769299914332962886/krnlmain.png" alt=""></a>
         <nav>
             <div class="ul">
-                <a href="/">Download</a>
+                <a href="/download" sve>Download</a>
                 <a href="/doc">Documentation</a>
                 <a href="https://discord.com/invite/6AGKKRaT4z">Discord</a>
                 <a href="/faq">Faq</a>
@@ -38,9 +38,6 @@
     </header>
     
     <slot/>
-    <footer>
-        Copyright © Krnl 2022
-    </footer>
     
 </div>
 
@@ -93,8 +90,4 @@
         transform: scale(0.9);
     }
 
-
-    footer {
-        text-align: center;
-    }
 </style>
