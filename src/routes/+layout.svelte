@@ -29,9 +29,10 @@
         <a href="/"><img src="https://cdn.discordapp.com/attachments/756373435726168104/769299914332962886/krnlmain.png" alt=""></a>
         <nav>
             <div class="ul">
-                <a href="/download" sve>Download</a>
+                <a href="/download">Download</a>
+                <a href="https://direct-link.net/337368/krnl-key" target=”_blank”>Krnl Key</a>
                 <a href="/doc">Documentation</a>
-                <a href="https://discord.com/invite/6AGKKRaT4z">Discord</a>
+                <a href="https://discord.com/invite/6AGKKRaT4z" target=”_blank”>Discord</a>
                 <a href="/faq">Faq</a>
             </div>
         </nav>

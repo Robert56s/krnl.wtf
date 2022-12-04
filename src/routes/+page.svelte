@@ -215,6 +215,7 @@
     .devtext {
         justify-content:space-evenly;
         text-align: center;
+        margin-left: 1rem;
     }
 
     footer {
