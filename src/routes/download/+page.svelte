@@ -70,15 +70,15 @@
     .flex {
         display: flex;
         justify-content: center;
-        margin-top: 3rem;
-        
+        flex-flow: row wrap;
     }
     .box {
         display: flex;
         flex-direction: column;
         padding: 1rem;
-        margin-inline: 3rem;
+        margin: 3rem;
         max-width: 32rem;
+        min-width: 300px;
         border-radius: 20px;
         background: #0c0c0c;
         flex: 1

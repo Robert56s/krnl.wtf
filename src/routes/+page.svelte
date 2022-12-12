@@ -1,3 +1,6 @@
+<script>
+    export const prerender = true;
+</script>
 <div class="first">
     <div class="group1">
         <h1>Krnl</h1>
@@ -146,30 +149,27 @@
 
     .second h1 {
         text-align: center;
-        padding-bottom: 3rem;
     }
 
     .second {
         margin-top: 3rem;
-        margin-inline: 13rem;
-        
     }
 
     .group2 {
         display: flex;
         justify-content: center;
         margin-bottom: 3rem;
-        
+        flex-flow: row wrap;
     }
 
     .box {
         padding: 1rem;
-        margin-inline: 3rem;
+        margin: 3rem;
         border-style: solid;
         border-radius: 5px;
         border-color: rgb(89, 48, 128);
         border-width: 5px;
-        flex: 1
+        width: 300px;
     }
 
     .box h3 {
@@ -189,24 +189,27 @@
 
     .third h1 {
         text-align: center;
-        padding: 5rem;
+        padding-top: 5rem;
     }
 
     .contributors {
         display: flex;
         justify-content: center;
+        flex-flow: row wrap;
+        flex-shrink: 1;
     }
 
     .devcard {
         display: flex;
         padding: 1rem;
-        margin-inline: 3rem;
+        margin: 2rem;
         border-radius: 20px;
         background: #0c0c0c;
-        flex: 1
+        text-align: center;
     }
 
     .devbox {
+        width: 200px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -228,5 +231,4 @@
         width: 20px;
         filter: invert(84%) sepia(1%) saturate(0%) hue-rotate(138deg) brightness(94%) contrast(92%);
     }   
-
 </style>
