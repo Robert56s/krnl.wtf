@@ -1,37 +1,4 @@
 <svelte:head>
-  <!-- Primary Meta Tags -->
-  <title>Krnl - Best Roblox Utility Tool</title>
-  <meta name="title" content="Krnl  - Best Roblox Utility Tool" />
-  <meta
-    name="description"
-    content="Krnl is a scripting tool with an easy-to-use graphical interface that makes it simple to build and run scripts."
-  />
-
-  <!-- Open Graph / Facebook -->
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://krnl.pw/" />
-  <meta property="og:title" content="Krnl  - Best Roblox Utility Tool" />
-  <meta
-    property="og:description"
-    content="Krnl is a scripting tool with an easy-to-use graphical interface that makes it simple to build and run scripts."
-  />
-  <meta
-    property="og:image"
-    content="https://cdn.discordapp.com/attachments/828812665232425000/1051528825978241034/favicon1.png"
-  />
-
-  <!-- Twitter -->
-  <meta property="twitter:card" content="summary_large_image" />
-  <meta property="twitter:url" content="https://krnl.pw/" />
-  <meta property="twitter:title" content="Krnl  - Best Roblox Utility Tool" />
-  <meta
-    property="twitter:description"
-    content="Krnl is a scripting tool with an easy-to-use graphical interface that makes it simple to build and run scripts."
-  />
-  <meta
-    property="twitter:image"
-    content="https://cdn.discordapp.com/attachments/828812665232425000/1051528825978241034/favicon1.png"
-  />
   <style>
     @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
 
@@ -49,6 +16,27 @@
 
     ::-webkit-scrollbar {
       width: 0;
+    }
+
+    @media screen and (max-width: 1045px) {
+      html {
+        font-size: 14px;
+      }
+    }
+    @media screen and (max-width: 810px) {
+      html {
+        font-size: 12px;
+      }
+    }
+    @media screen and (max-width: 629px) {
+      html {
+        font-size: 10px;
+      }
+    }
+    @media screen and (max-width: 535px) {
+      html {
+        font-size: 8px;
+      }
     }
   </style>
 </svelte:head>
@@ -128,15 +116,10 @@
         margin: 1rem 0.5rem;
     }
   }
-  @media screen and (max-width: 810px) {
+  @media screen and (max-width: 445px) {
     header {
         height: 20vh;
         position: static;
-    }
-  }
-  @media screen and (max-width: 600px) {
-    header {
-        height: 30vh;
     }
   }
 </style>

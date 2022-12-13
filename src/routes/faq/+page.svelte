@@ -1,3 +1,47 @@
+<svelte:head>
+    <!-- Primary Meta Tags -->
+    <title>Krnl - Faq</title>
+    <meta name="title" content="Krnl - Faq" />
+    <meta
+      name="description"
+      content="But then how can you prove Krnl isn't malware? you might ask. User trust and safety is priority at Krnl, due to this the only hidden/protected part of the Krnl client is the dll that is injected into Roblox(This being krnl.dll). Other than the dll Krnl client is completely unobfuscated/unprotected. Both the Krnl bootstrapper and krnl itself's code is completely readable using a .NET decompiler like dnSpy or DotPeek (or even just a text editor like notepad for the node js bootstrapper). This means that you yes you can look at the code that runs the Krnl client. Here are the links to both the bootstrapper and the main executable files source code."
+    />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://krnl.pw/faq" />
+    <meta property="og:title" content="Krnl - Faq" />
+    <meta
+      property="og:description"
+      content="But then how can you prove Krnl isn't malware? you might ask. User trust and safety is priority at Krnl, due to this the only hidden/protected part of the Krnl client is the dll that is injected into Roblox(This being krnl.dll). Other than the dll Krnl client is completely unobfuscated/unprotected. Both the Krnl bootstrapper and krnl itself's code is completely readable using a .NET decompiler like dnSpy or DotPeek (or even just a text editor like notepad for the node js bootstrapper). This means that you yes you can look at the code that runs the Krnl client. Here are the links to both the bootstrapper and the main executable files source code."
+    />
+    <meta
+      property="og:image"
+      content="https://cdn.discordapp.com/attachments/828812665232425000/1051528825978241034/favicon1.png"
+    />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://krnl.pw/faq" />
+    <meta property="twitter:title" content="Krnl - Faq" />
+    <meta
+      property="twitter:description"
+      content="But then how can you prove Krnl isn't malware? you might ask. User trust and safety is priority at Krnl, due to this the only hidden/protected part of the Krnl client is the dll that is injected into Roblox(This being krnl.dll). Other than the dll Krnl client is completely unobfuscated/unprotected. Both the Krnl bootstrapper and krnl itself's code is completely readable using a .NET decompiler like dnSpy or DotPeek (or even just a text editor like notepad for the node js bootstrapper). This means that you yes you can look at the code that runs the Krnl client. Here are the links to both the bootstrapper and the main executable files source code."
+    />
+    <meta
+      property="twitter:image"
+      content="https://cdn.discordapp.com/attachments/828812665232425000/1051528825978241034/favicon1.png"
+    />
+    <style>
+        @media screen and (max-width: 445px) {
+            header {
+                position: relative !important; 
+            }
+        }
+    </style>
+</svelte:head>
+
+
 <div class="body">
     <article class="markdown-body">
         <h3>

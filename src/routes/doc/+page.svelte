@@ -1,3 +1,37 @@
+<svelte:head>
+  <!-- Primary Meta Tags -->
+  <title>Krnl - Documentation</title>
+  <meta name="title" content="Krnl - Documentation" />
+  <meta
+    name="description"
+    content="An official list of the Krnl environment, libraries, and other related information will be documented here. However, this documentation will not reflect on the active state of Krnl, and may be missing content. This will be updated regularly, any inconsistencies should be reported to Someone Papy#2062. Krnl is UNC supported to make scripting easier."
+  />
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://krnl.pw/doc" />
+  <meta property="og:title" content="Krnl - Documentation" />
+  <meta
+    property="og:description"
+    content="An official list of the Krnl environment, libraries, and other related information will be documented here. However, this documentation will not reflect on the active state of Krnl, and may be missing content. This will be updated regularly, any inconsistencies should be reported to Someone Papy#2062. Krnl is UNC supported to make scripting easier."
+  />
+  <meta
+    property="og:image"
+    content="https://cdn.discordapp.com/attachments/828812665232425000/1051528825978241034/favicon1.png"
+  />
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://krnl.pw/doc" />
+  <meta property="twitter:title" content="Krnl - Documentation" />
+  <meta
+    property="twitter:description"
+    content="An official list of the Krnl environment, libraries, and other related information will be documented here. However, this documentation will not reflect on the active state of Krnl, and may be missing content. This will be updated regularly, any inconsistencies should be reported to Someone Papy#2062. Krnl is UNC supported to make scripting easier."
+  />
+  <meta
+    property="twitter:image"
+    content="https://cdn.discordapp.com/attachments/828812665232425000/1051528825978241034/favicon1.png"
+  />
+</svelte:head>
+
 <div class="body">
   <div>
     

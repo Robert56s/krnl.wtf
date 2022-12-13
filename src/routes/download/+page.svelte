@@ -1,3 +1,38 @@
+<svelte:head>
+    <!-- Primary Meta Tags -->
+    <title>Krnl - Download</title>
+    <meta name="title" content="Krnl - Download" />
+    <meta
+      name="description"
+      content="Download Krnl Latest version and Legacy version."
+    />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://krnl.pw/download" />
+    <meta property="og:title" content="Krnl - Download" />
+    <meta
+      property="og:description"
+      content="Download Krnl Latest version and Legacy version."
+    />
+    <meta
+      property="og:image"
+      content="https://cdn.discordapp.com/attachments/828812665232425000/1051528825978241034/favicon1.png"
+    />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://krnl.pw/download" />
+    <meta property="twitter:title" content="Krnl - Download" />
+    <meta
+      property="twitter:description"
+      content="Download Krnl Latest version and Legacy version."
+    />
+    <meta
+      property="twitter:image"
+      content="https://cdn.discordapp.com/attachments/828812665232425000/1051528825978241034/favicon1.png"
+    />
+</svelte:head>
 <div class="first">
     <h1>
         Download Krnl
