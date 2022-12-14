@@ -68,7 +68,7 @@
     justify-content: space-between;
     align-items: center;
     color: white;
-    height: 10vh;
+    height: 5.3rem;
     background: #000000b2;
   }
 
@@ -79,8 +79,8 @@
   }
 
   img {
-    width: 64px;
-    height: 60px;
+    width: 4rem;
+    height: 3.75rem;
     margin-left: 2rem;
   }
 
@@ -118,8 +118,32 @@
   }
   @media screen and (max-width: 445px) {
     header {
-        height: 20vh;
+        height: 10.6rem;
         position: static;
     }
+    nav a {
+      padding: 1.2rem 2rem;
+      margin: 0.5rem 1rem;
+      font-size: 10px;
+    }
+
+  }
+  @media screen and (max-width: 386px) {
+    header {
+        height: 10.6rem;
+        position: static;
+    }
+    nav a {
+      padding: 1.2rem 2rem;
+      margin: 0.5rem 1rem;
+      font-size: 10px;
+    }
+
+    nav a {
+        padding: 1rem;
+        margin: 1rem 0.5rem;
+        font-size: 10px;
+    }
+
   }
 </style>
