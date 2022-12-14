@@ -99,7 +99,7 @@
         padding: 2rem;
     }
     .box h1 {
-        font-size: xx-large;
+        font-size: 2rem;
         text-align: left;;
     }
     .flex {
@@ -113,7 +113,7 @@
         padding: 1rem;
         margin: 3rem;
         max-width: 32rem;
-        min-width: 300px;
+        min-width: 18.75rem;
         border-radius: 20px;
         background: #0c0c0c;
         flex: 1
