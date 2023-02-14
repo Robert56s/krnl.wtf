@@ -46,9 +46,9 @@
     <a href="/"><img src="https://cdn.discordapp.com/attachments/756373435726168104/769299914332962886/krnlmain.png" alt=""/></a>
     <nav>
       <a href="/download" data-sveltekit-prefetch>Download</a>
-      <a href="https://direct-link.net/337368/krnl-key" target="”_blank”" data-sveltekit-prefetch>Krnl Key</a>
+      <a href="/key" data-sveltekit-prefetch>Krnl Key</a>
       <a href="/doc" data-sveltekit-prefetch>Documentation</a>
-      <a href="https://discord.com/invite/6AGKKRaT4z" target="_blank" rel="noreferrer" data-sveltekit-prefetch>Discord</a>
+      <a href="/discord"data-sveltekit-prefetch>Discord</a>
       <a href="/faq" data-sveltekit-prefetch>Faq</a>
     </nav>
   </header>
